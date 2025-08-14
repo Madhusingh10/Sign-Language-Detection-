@@ -61,3 +61,6 @@ Interactive learning systems: Teaching sign language through real-time feedback 
 Human-computer interaction: Enabling gesture-based control for applications and devices.
 
 This system demonstrates a high-speed, real-time approach to sign language action recognition and can be extended for multi-class gesture detection, integration with translation systems, or combined with NLP for complete sign-to-speech conversion.
+
+![WhatsApp Image 2025-08-14 at 10 28 00](https://github.com/user-attachments/assets/bd2b0d51-7c53-41d7-9e19-63a8573f761e)
+
